@@ -1,0 +1,1 @@
+The animation system is very barebones, but it does the job. When working on the system I quickly realized that animation programming or adding animations to an existing system is a whole discipline in of itself. Therefore I didn't focus on this system and just made it quickly to work with this system.

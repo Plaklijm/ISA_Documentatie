@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "ec79790830579022",
+    "type": "split",
+    "children": [
+      {
+        "id": "30ec61d4af8e8bb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4138d55bb4c43ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/ISA Movement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca6fe03fc9854c0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "89924817af96a498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa8c687f455419d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "cf9dc7423dfa5756",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e794d00e0e32869b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c19d8e8202e11a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "20cc9263897c3e8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06cb6bf17e3f53fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project/ISA Movement.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f8d3c50ec4de941",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project/ISA Movement.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32cc622748718212",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70784a1c40a650da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project/ISA Movement.md"
+              }
+            }
+          },
+          {
+            "id": "5d6566e40f90ad22",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "b4138d55bb4c43ae",
+  "lastOpenFiles": [
+    "Project/System Overview.canvas",
+    "Project/ISA Movement.md",
+    "Project/Animation System.md",
+    "2023-05-23.md",
+    "Project/GameplayTag system.md",
+    "Project/Progress report.md",
+    "Resource/Written Recourses.md",
+    "Resource/Resources.md",
+    "Untitled.canvas",
+    "2023-05-22.md",
+    "IMG_0419.jpg",
+    "Zippy.md",
+    "Archive",
+    "Resource",
+    "Area",
+    "Project",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
